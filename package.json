@@ -1,5 +1,5 @@
 {
-    "name": "@hiudyy/ytdl",
+    "name": "@nazi-team/ytdl",
     "version": "0.2.3",
     "description": "Universal Audio and Video Downloader: Download content effortlessly from YouTube, social media platforms, and various streaming sites.",
     "main": "src/index.js",
